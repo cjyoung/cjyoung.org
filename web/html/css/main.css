@@ -1,0 +1,41 @@
+* {
+	margin: 0;
+	padding: 0
+}
+
+body {
+	color: #333;
+	font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+	background: #007FFF;
+	min-width: 520px; /* 400+50*2+10*2 */
+}
+
+h1, h2, h3 {
+	color: #333;
+	font-family: Impact, Charcoal, sans-serif;
+}
+
+#main-content {
+	padding: 10px;
+	margin: 25px;
+	margin-left: 50px;
+	margin-right: 50px;
+	min-width: 400px;
+	background: #7fbefe;
+}
+
+a {
+	color: #333;
+}
+
+a:hover {
+	color: #007FFF;
+}
+
+li {
+	margin-left: 20px;
+}
+
+.float-right {
+	float: right;
+}
