@@ -39,3 +39,8 @@ li {
 .float-right {
 	float: right;
 }
+
+img {
+	/* get rid of borders on image links */
+	border-style: none;
+}

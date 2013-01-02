@@ -18,6 +18,7 @@
 		<li><a href="http://www.linkedin.com/profile/view?id=24884047">LinkedIn Profile</a></li>
 		<li><a href="https://github.com/cjyoung">GitHub Area</a></li>
 		<li><a href="http://bit.ly/chrisyoungresume">Résumé in Google Docs</a>
+		<li><a href="http://stackoverflow.com/users/1245601/chris">StackOverflow Profile</a></li>
 	</ul>
 </div>
 </body>
